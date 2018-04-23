@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UdacityPractical1</string>
+    <string name="next_button">Next</string>
+    <string name="demo_username">DemoUsername</string>
+    <string name="demo_email">DemoEmaill</string>
+    <string name="demo_bio">This is a demo description and will replace the original one.</string>
+    <string name="menu_title">Profile</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="bio_hint">Write about yourself</string>
+    <string name="gender_male">M</string>
+    <string name="gender_female">F</string>
+</resources>
